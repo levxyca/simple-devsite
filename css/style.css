@@ -1,15 +1,23 @@
 /* Estilos Gerais */
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Nunito', sans-serif;
     text-align: center;
     font-size: 64px;
 }
 
+p {
+    font-family: 'Nunito', sans-serif;
+    line-height: 150%;
+}
+
+a {
+    font-family: 'Nunito', sans-serif;
+}
 /* Introdução */
 .titulo_home {
     text-align: center;
     font-size: 72px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
 }
 
@@ -19,6 +27,11 @@ h1 {
     align-items: center;
     flex-direction: column;
     justify-content: center;
+}
+
+.estilo-1 {
+    background-color: rgba(220,220,220, 50%);
+    width: 100%;
 }
 
 .redes_sociais {
@@ -45,6 +58,12 @@ h1 {
     height: 160px;
     width: 160px;
     margin-right: 70px;
+    border-radius: 50%;
+}
+
+.estilo-2 {
+    background-color: #FFFAFA;
+    width: 100%;
 }
 
 /* Skills */
@@ -62,8 +81,13 @@ h1 {
     text-align: center;
     display: flex;
     align-items: center;
+    margin-bottom:40px;
 }
 
-.skills li img {
-    margin-bottom:40px;
+.skills li a {
+    margin-left: 10px;
+}
+
+.skills img{
+    clip-path: circle(50% at 50% 50%);
 }
