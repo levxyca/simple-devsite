@@ -2,7 +2,7 @@
 h1 {
     font-family: 'Nunito', sans-serif;
     text-align: center;
-    font-size: 64px;
+    font-size: 4rem;
 }
 
 p {
@@ -16,7 +16,7 @@ a {
 /* Introdução */
 .titulo_home {
     text-align: center;
-    font-size: 72px;
+    font-size: 4.5rem;
     font-family: 'Nunito', sans-serif;
     text-transform: uppercase;
 }
