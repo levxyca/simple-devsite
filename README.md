@@ -7,6 +7,6 @@ Esse foi o primeiro projeto feito ao vivo por mim na twitch para estudar conceit
 
 ### :computer: Tecnologias utilizadas
 - HTML
-- CSS (Flexbox e Grid)
+- CSS with Flexbox
 -------------------------------------------------------
 Feito com :hearts: por [Leticia Caroline Leonardo](https://github.com/levxyca)
